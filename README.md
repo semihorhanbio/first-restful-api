@@ -1,0 +1,2 @@
+Projects include basic design and implementation of RESTful API’s via the Flask framework. API only do basic mathematical operations from the given user input.
+Mathematical operations are division, multiplication, substraction and addition. And we can only make operations for two numbers.
